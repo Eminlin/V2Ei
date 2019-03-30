@@ -4,6 +4,8 @@
 目前按照V2EX节点分类。
 
 ## 分享创造
+[在 github 上收集 V2EX 有趣的帖子 v2ei](https://www.v2ex.com/t/550286)  
+
 [在 V 站众筹一款正在开发的 SSH 客户端： Termix](https://www.v2ex.com/t/549770)  
 [给大家几个日常工具,一行命令搞定基础环境建设](https://www.v2ex.com/t/514417)  
 
