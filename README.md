@@ -1,2 +1,2 @@
 # V2Ei
-收集V2EX里有趣的idea
+收集V2EX（）里有趣的idea
