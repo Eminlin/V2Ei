@@ -1,5 +1,6 @@
 # V2Ei
-收集V2EX[https://www.v2ex.com] 里 /有趣/令人赞叹/奇思妙想/热点/值得收集/ 的idea&project。
+收集V2EX[https://www.v2ex.com] 里 /有趣/令人赞叹/奇思妙想/热点/值得收集/ 的idea&project。  
+
 目前按照V2EX节点分类
 
 ## 分享创造
