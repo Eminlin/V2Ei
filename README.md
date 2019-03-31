@@ -14,6 +14,10 @@
 ## 分享发现
 [12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
 
+## 程序员
+[我在淘宝做前端的这三年 — 第一年](https://www.v2ex.com/t/538715)  
+
+
 ## Python
 [各大网站登陆方式， 包括爬虫，麻麻再也不用担心我学习爬虫啦](https://www.v2ex.com/t/541987)  
 
