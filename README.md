@@ -14,6 +14,7 @@
 
 ## 分享发现
 [12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
+[分享香港 IT 求职经历以及薪资待遇](https://www.v2ex.com/t/550195)  
 
 ## 程序员
 [我在淘宝做前端的这三年 — 第一年](https://www.v2ex.com/t/538715)  
