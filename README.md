@@ -11,6 +11,7 @@
 [给大家几个日常工具,一行命令搞定基础环境建设](https://www.v2ex.com/t/514417)  
 [NVIDIA 基于自家 Jetson Nano 开源机器人 Jetbot DIY 资料汇总](https://www.v2ex.com/t/549223)  
 [老爹的铁铺上线，给老爸做个广告，云上铁铺 :)](https://www.v2ex.com/t/532913)  
+[前端萌新正在做的中国风 React 组件库...](https://www.v2ex.com/t/550681)  
 
 ## 分享发现
 [12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
