@@ -10,10 +10,16 @@
 [NVIDIA 基于自家 Jetson Nano 开源机器人 Jetbot DIY 资料汇总](https://www.v2ex.com/t/549223)  
 [老爹的铁铺上线，给老爸做个广告，云上铁铺 :)](https://www.v2ex.com/t/532913)  
 [前端萌新正在做的中国风 React 组件库...](https://www.v2ex.com/t/550681)  
+[开源肖像-向伟大的开源领袖们致敬](https://www.v2ex.com/t/552627)  
+
 
 ## 分享发现
 [12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
 [分享香港 IT 求职经历以及薪资待遇](https://www.v2ex.com/t/550195)  
+
+## 奇思妙想  
+[收集 V2EX 上的撕逼大战](https://www.v2ex.com/t/211400)  
+
 
 ## 程序员
 [我在淘宝做前端的这三年 — 第一年](https://www.v2ex.com/t/538715)  
