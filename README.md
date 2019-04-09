@@ -13,7 +13,7 @@
 [开源肖像-向伟大的开源领袖们致敬](https://www.v2ex.com/t/552627)  
 [[星系漫游指南]分享一个查看近期火星天气的小程序](https://www.v2ex.com/t/553172)  
 [Lookao! 一款非常轻量简洁的搜索引擎，希望你会喜欢](https://www.v2ex.com/t/552904)  
-
+[RSSHub - 使用 RSS 连接全世界](https://www.v2ex.com/t/446405)
 
 ## 分享发现
 [12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
