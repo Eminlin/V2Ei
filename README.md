@@ -30,6 +30,7 @@
 [我在淘宝做前端的这三年 — 第一年](https://www.v2ex.com/t/538715)  
 [你们的启蒙编程语言是？](https://www.v2ex.com/t/550812)  
 [工作三到五年后接触机器学习的入门建议](https://www.v2ex.com/t/548519)  
+[Gameboy 模拟器 点火成功!](https://www.v2ex.com/t/556574)  
 
 ## Python
 [各大网站登陆方式， 包括爬虫，麻麻再也不用担心我学习爬虫啦](https://www.v2ex.com/t/541987)  
