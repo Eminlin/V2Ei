@@ -6,10 +6,10 @@
 [在 github 上收集 V2EX 有趣的帖子 v2ei](https://www.v2ex.com/t/550286)  
 
 ## 分享创造
-[我写了一个 App，让外婆不需要学微信也能与我们微信聊天](https://www.v2ex.com/t/549458)  
-[NVIDIA 基于自家 Jetson Nano 开源机器人 Jetbot DIY 资料汇总](https://www.v2ex.com/t/549223)  
-[老爹的铁铺上线，给老爸做个广告，云上铁铺 :)](https://www.v2ex.com/t/532913)  
-[前端萌新正在做的中国风 React 组件库...](https://www.v2ex.com/t/550681)  
+* [我写了一个 App，让外婆不需要学微信也能与我们微信聊天](https://www.v2ex.com/t/549458)  
+* [NVIDIA 基于自家 Jetson Nano 开源机器人 Jetbot DIY 资料汇总](https://www.v2ex.com/t/549223)  
+* [老爹的铁铺上线，给老爸做个广告，云上铁铺 :)](https://www.v2ex.com/t/532913)  
+* [前端萌新正在做的中国风 React 组件库...](https://www.v2ex.com/t/550681)  
 [开源肖像-向伟大的开源领袖们致敬](https://www.v2ex.com/t/552627)  
 [[星系漫游指南]分享一个查看近期火星天气的小程序](https://www.v2ex.com/t/553172)  
 [Lookao! 一款非常轻量简洁的搜索引擎，希望你会喜欢](https://www.v2ex.com/t/552904)  
