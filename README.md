@@ -10,33 +10,33 @@
 * [NVIDIA 基于自家 Jetson Nano 开源机器人 Jetbot DIY 资料汇总](https://www.v2ex.com/t/549223)  
 * [老爹的铁铺上线，给老爸做个广告，云上铁铺 :)](https://www.v2ex.com/t/532913)  
 * [前端萌新正在做的中国风 React 组件库...](https://www.v2ex.com/t/550681)  
-[开源肖像-向伟大的开源领袖们致敬](https://www.v2ex.com/t/552627)  
-[[星系漫游指南]分享一个查看近期火星天气的小程序](https://www.v2ex.com/t/553172)  
-[Lookao! 一款非常轻量简洁的搜索引擎，希望你会喜欢](https://www.v2ex.com/t/552904)  
-[RSSHub - 使用 RSS 连接全世界](https://www.v2ex.com/t/446405)  
-[分享个自用的小工具~ 给你的 iPhone 发自定义推送](https://www.v2ex.com/t/467407)  
-[利用公交线路可视化城市结构](https://www.v2ex.com/t/553321)  
-[Tea + Cloud，那个为开发者而生的笔记应用，它上天（云）了！](https://www.v2ex.com/t/555768)
+* [开源肖像-向伟大的开源领袖们致敬](https://www.v2ex.com/t/552627)  
+* [[星系漫游指南]分享一个查看近期火星天气的小程序](https://www.v2ex.com/t/553172)  
+* [Lookao! 一款非常轻量简洁的搜索引擎，希望你会喜欢](https://www.v2ex.com/t/552904)  
+* [RSSHub - 使用 RSS 连接全世界](https://www.v2ex.com/t/446405)  
+* [分享个自用的小工具~ 给你的 iPhone 发自定义推送](https://www.v2ex.com/t/467407)  
+* [利用公交线路可视化城市结构](https://www.v2ex.com/t/553321)  
+* [Tea + Cloud，那个为开发者而生的笔记应用，它上天（云）了！](https://www.v2ex.com/t/555768)
 
 ## 分享发现
-[12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
-[分享香港 IT 求职经历以及薪资待遇](https://www.v2ex.com/t/550195)  
+* [12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
+* [分享香港 IT 求职经历以及薪资待遇](https://www.v2ex.com/t/550195)  
 
 ## 奇思妙想  
-[收集 V2EX 上的撕逼大战](https://www.v2ex.com/t/211400)  
-[你穿越到了旧石器时代，迫于无聊，你决定造电脑](https://www.v2ex.com/t/552639)
+* [收集 V2EX 上的撕逼大战](https://www.v2ex.com/t/211400)  
+* [你穿越到了旧石器时代，迫于无聊，你决定造电脑](https://www.v2ex.com/t/552639)
 
 
 ## 程序员
-[我在淘宝做前端的这三年 — 第一年](https://www.v2ex.com/t/538715)  
-[你们的启蒙编程语言是？](https://www.v2ex.com/t/550812)  
-[工作三到五年后接触机器学习的入门建议](https://www.v2ex.com/t/548519) 
-[倘若有天你不想再敲代码了，你想做什么？](https://www.v2ex.com/t/556142)  
-[Gameboy 模拟器 点火成功!](https://www.v2ex.com/t/556574)  
+* [我在淘宝做前端的这三年 — 第一年](https://www.v2ex.com/t/538715)  
+* [你们的启蒙编程语言是？](https://www.v2ex.com/t/550812)  
+* [工作三到五年后接触机器学习的入门建议](https://www.v2ex.com/t/548519) 
+* [倘若有天你不想再敲代码了，你想做什么？](https://www.v2ex.com/t/556142)  
+* [Gameboy 模拟器 点火成功!](https://www.v2ex.com/t/556574)  
 
 
 ## Python
-[各大网站登陆方式， 包括爬虫，麻麻再也不用担心我学习爬虫啦](https://www.v2ex.com/t/541987)  
+* [各大网站登陆方式， 包括爬虫，麻麻再也不用担心我学习爬虫啦](https://www.v2ex.com/t/541987)  
 
 
 
