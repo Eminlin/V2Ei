@@ -16,7 +16,8 @@
 * [RSSHub - 使用 RSS 连接全世界](https://www.v2ex.com/t/446405)  
 * [分享个自用的小工具~ 给你的 iPhone 发自定义推送](https://www.v2ex.com/t/467407)  
 * [利用公交线路可视化城市结构](https://www.v2ex.com/t/553321)  
-* [Tea + Cloud，那个为开发者而生的笔记应用，它上天（云）了！](https://www.v2ex.com/t/555768)
+* [Tea + Cloud，那个为开发者而生的笔记应用，它上天（云）了！](https://www.v2ex.com/t/555768)  
+* [尝试写了一个 Gameboy 模拟器，支持在命令行下“云游戏串流”游玩](https://www.v2ex.com/t/560297)
 
 ## 分享发现
 * [12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
