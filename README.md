@@ -34,6 +34,7 @@
 * [工作三到五年后接触机器学习的入门建议](https://www.v2ex.com/t/548519) 
 * [倘若有天你不想再敲代码了，你想做什么？](https://www.v2ex.com/t/556142)  
 * [Gameboy 模拟器 点火成功!](https://www.v2ex.com/t/556574)  
+* [我想开发一门新的编程语言](https://www.v2ex.com/t/561958)  
 
 
 ## Python
