@@ -35,7 +35,7 @@
 * [倘若有天你不想再敲代码了，你想做什么？](https://www.v2ex.com/t/556142)  
 * [Gameboy 模拟器 点火成功!](https://www.v2ex.com/t/556574)  
 * [我想开发一门新的编程语言](https://www.v2ex.com/t/561958)  
-
+* [用无线渗透的方法让室友按时休息](https://www.v2ex.com/t/561607)  
 
 ## Python
 * [各大网站登陆方式， 包括爬虫，麻麻再也不用担心我学习爬虫啦](https://www.v2ex.com/t/541987)  
