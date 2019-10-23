@@ -18,7 +18,8 @@
 * [利用公交线路可视化城市结构](https://www.v2ex.com/t/553321)  
 * [Tea + Cloud，那个为开发者而生的笔记应用，它上天（云）了！](https://www.v2ex.com/t/555768)  
 * [尝试写了一个 Gameboy 模拟器，支持在命令行下“云游戏串流”游玩](https://www.v2ex.com/t/560297)  
-* [希望「DogeDoge 搜索」能给你一点不同的选择](https://www.v2ex.com/t/573950)
+* [希望「DogeDoge 搜索」能给你一点不同的选择](https://www.v2ex.com/t/573950)  
+* [数据结构在实际项目中的使用 - 链表](https://www.v2ex.com/t/611963)
 
 ## 分享发现
 * [12306 验证码破解，基于 tensorflow keras](https://www.v2ex.com/t/537693)  
@@ -31,7 +32,7 @@
 * [在 URL 上打游戏！](https://www.v2ex.com/t/574208)  
 * [如果有云电脑这种东西 你们会使用吗](https://www.v2ex.com/t/567774)  
 * [假如有一天脑机接口真的实现了，意识可以被存储甚至复制，那么人类是否可以永生？](https://www.v2ex.com/t/585301)  
-- [为什么做技术的发不了大财？](https://www.v2ex.com/t/611034) 
+* [为什么做技术的发不了大财？](https://www.v2ex.com/t/611034) 
 
 ## 程序员
 * [我在淘宝做前端的这三年 — 第一年](https://www.v2ex.com/t/538715)  
